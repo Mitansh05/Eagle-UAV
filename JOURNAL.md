@@ -36,3 +36,13 @@ Overall this was session that I did during a free class in school. In this sessi
 ![V1 rough sketch](/JournalAssets/SketchV1.png)
 
 **Total time spent: 1 hour**
+
+# October 30: Sketching the V2
+
+So today I again had some extra time in school. So it decided to make an actual and comprehensible sketch of what I want the UAV to look like. I will attach the image of the sketch below. Now I will sort of explain my design that I made; So lets first start with how I got started, so to get started I first made a miro whiteboard and made it a mood board by adding images of multiple fixed wing UAV on it to get some inspo for my design. Me Making the mood board the amount of time I spent of the sketch can be seen on my `lapse`. Next, I fist made the side veiw in which the I first made a long cylindrical shape body and then I rounded the front and also the back a little. Then I went ahead and added the wheels, and for the wheel config i am thinking of have 1 primary wheel with some inbuilt suspension to the front, under the hosuing of the components at the top. And then I decide to have 2 wheels placed at an agngle towards the back, after the wings. And this will hopefully provide my glider a smooth and sturdy landing. After that I decided to add the housing for the components at the top. After that I decided to make a air duct i guess you can say behind it to help get enough air to the motor for it make enough thrust and also dosen't overheat. Next I decided to amke the 3 vertical stablizers in the back with 2 towards the top and 1 in the middle bottom, which will hopefully give it enough stablility. After that I went ahead an added the housing at the front bottom for the main camera. After which I made the wing, which for now is temporary as I have not decided the shape that I want the wing to be. Next, after all of that I went ahead and made the top view of the Eagle and tried to make it to where it was as close as possible to the side view. Also I added the housing fro the reciver towards the middle of the Eagle.
+
+Overall, this session was all sketching during free time in school. Also in the next session I am looking forward to starting making a list of the components that I want in the Eagle or I can start working on the CAD(Computer-Aided-Design) of the Eagle. And both will be a significant step of the design process. Overall I am really happy about my progress today.
+
+![sketch:V2](/JournalAssets/SketchV2.png)
+
+**Total Time spent: 1 hour**
