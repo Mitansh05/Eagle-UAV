@@ -11,7 +11,7 @@ Today, I first made the project and the Github repo for the project. Then I went
 
 Overall this session was mostly, setting up the project and now in the next session I am looking forward to start research and potentially even selecting the components that I will use.
 
-[![repo image](/Overview/journalFolder/JournalAssets/repo.png)](https://github.com/Mitansh05/Eagle-UAV)
+[![repo image](/JournalAssets/repo.png)](https://github.com/Mitansh05/Eagle-UAV)
 
 **Total time spent: 1 hour**
 
@@ -23,7 +23,7 @@ Overall all I did in this session is research which in my opinion is probably on
 
 And after this step of the design process I am now thinking of starting the planing part of the design process. In which I will finally draft how the prototype will look which is also a critical part of the design process.
 
-![Image from an article I used](/Overview/journalFolder/JournalAssets/Reserach.png)
+![Image from an article I used](/JournalAssets/Reserach.png)
 
 **Total time spent: 1 hour**
 
@@ -33,6 +33,6 @@ Today, I had some extra time during a class, so I decided to make a rough sketch
 
 Overall this was session that I did during a free class in school. In this session I made my rough sketch of V1 and am most likely going to make another version. When ever I get time. I also during the end of this session I added that images to all of the previous diary entries, as that is a requirement. And in the next session I am hoping to get an actual sketch and start cading or make a list of everything I want in the UAV.
 
-![V1 rough sketch](/Overview/journalFolder/JournalAssets/SketchV1.png)
+![V1 rough sketch](/JournalAssets/SketchV1.png)
 
 **Total time spent: 1 hour**
