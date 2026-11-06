@@ -55,6 +55,10 @@ So this session was split in drifferent days as I worked on it any time I got ti
 
 Overall during this long session the whole time I just researched and added parts like the motor, propellers, servos, and cameras to the list. And for my next step I am either going to research the flight controller stack or I will start working on the CAD of the Eagle's body. 
 
+[Lapse 1](https://lapse.hackclub.com/timelapse/cx4z83oj9tDA)
+[Lapse 2](https://lapse.hackclub.com/timelapse/MT-th2sI5jnM)
+[Lapse 3](https://lapse.hackclub.com/timelapse/TNcOdU8bojE9)
+
 ![sketch:V2](/JournalAssets/PartsList.png)
 
 **Total Time spent: 1 hour**
