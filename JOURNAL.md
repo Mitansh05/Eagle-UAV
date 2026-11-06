@@ -46,3 +46,15 @@ Overall, this session was all sketching during free time in school. Also in the 
 ![sketch:V2](/JournalAssets/SketchV2.png)
 
 **Total Time spent: 1 hour**
+
+# November 2-6: Making the Parts list
+
+So this session was split in drifferent days as I worked on it any time I got time in school. To make the list I used google sheets and then added the parts with their links on it. Here is the link to the google sheet.
+
+[Click Here For The Link](https://docs.google.com/spreadsheets/d/1sU-mLSEuglFejoYTGKYUmdJwWbyNO7f3-poAhfKJHck/edit?gid=0#gid=0)
+
+Overall during this long session the whole time I just researched and added parts like the motor, propellers, servos, and cameras to the list. And for my next step I am either going to research the flight controller stack or I will start working on the CAD of the Eagle's body. 
+
+![sketch:V2](/JournalAssets/PartsList.png)
+
+**Total Time spent: 1 hour**
