@@ -59,7 +59,7 @@ Overall during this long session the whole time I just researched and added part
 [Lapse 2](https://lapse.hackclub.com/timelapse/MT-th2sI5jnM)
 [Lapse 3](https://lapse.hackclub.com/timelapse/TNcOdU8bojE9)
 
-![sketch:V2](/JournalAssets/PartsList.png)
+![List V1:](/JournalAssets/PartsList.png)
 
 **Total Time spent: 1 hour**
 
@@ -67,6 +67,18 @@ Overall during this long session the whole time I just researched and added part
 
 So today I finalized the parts list, made sure everything was compatible and am now fully ready to CAD it all out.
 
-![sketch:V2](/JournalAssets/FinalList.png)
+![List V2:](/JournalAssets/FinalList.png)
 
 **Total Time spent: 2 hour**
+
+# November 16: Finalizing the Parts list
+
+So today I made the airfoil for Eagle and i used NASA's student airfoil sim to get my design and then used onshape to CAD it all out.
+
+[CAD link - OnShape](https://cad.onshape.com/documents/8e8319e4d44068dc689d501a/w/d92d558a5336516146a8f0f4/e/517f636c0587a95db94c7d9f?renderMode=0&uiState=6afba33886bf7b6f8f327b79)
+
+[NASA's Airfoil Sim](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilsimstudent/)
+
+![CAD V1:](/JournalAssets/CADV1.png)
+
+**Total Time spent: 1 hour**
